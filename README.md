@@ -11,7 +11,7 @@ You can find Caffe-based face detector prototxt files in the ```face_detector```
 
 How to use
 ```    
-git clone https://github.com/aakashjhawar/face-detection.git
+git clone https://github.com/raghav3615/Face-Detection-with-OpenCV-and-Deep-Learning
 cd face-detection
 ```
 To detect face from photos:
